@@ -1,0 +1,9 @@
+<configuration>
+	<GroupAddress>239.12.255.254</GroupAddress>
+	<GroupPort>9522</GroupPort>
+	<Logging>on</Logging>
+
+	<!-- Hier Netzwerkkarte eintragen falls mehr als eine gefunden wird-->
+	<Network>Ethernet 4</Network>
+
+</configuration>
